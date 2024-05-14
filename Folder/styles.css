@@ -1,0 +1,20 @@
+* {
+margin:0%;
+padding: 0%;
+box-sizing: border-box;
+
+} 
+
+body{
+
+    background-image: url(Img/Foodie.jpg);
+    background-repeat: no-repeat;
+    background-position: left top;
+    /* background-size:cover;
+    background-attachment: fixed; */
+    /* height: 100vh; */
+    /* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+color: white;
+    opacity: 0.6;
+    
+}
